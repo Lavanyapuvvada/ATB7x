@@ -8,4 +8,8 @@ below concepts
 - OOPS Concepts
 - Exception handling
 - Threads
+- File IO
+- Collection Framework
+- Design Patterns
+- Other Misch
 
